@@ -6,7 +6,7 @@ Este es mi proyecto de una calculadora desarrollada en HTML, CSS y JavaScript. L
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/Normajel/calculadora.frontend
+git clone https://github.com/Normajel/calculadora.frontend.git
 
 2. Abre el archivo `calculadora.html` en tu navegador web.
 
