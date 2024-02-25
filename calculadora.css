@@ -1,19 +1,19 @@
 body {
-    background-image: url("/img/images.jpg");
+    background-color: antiquewhite;
 }
 
 h1 {
     font-family:'Times New Roman', Times, serif;
     font-size: 50px;
     text-align: center;
-    color: rgb(87, 58, 235);
+    color: rgb(109, 18, 80);
 }
 
 .calculadora {
     display: block;
     margin: 0 auto;
     padding: 20px;
-    background-color: rgb(47, 17, 152);
+    background-color: rgb(236, 71, 214);
     width: 300px;
     height: 500px;
     border-radius: 25px;
