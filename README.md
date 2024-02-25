@@ -1,6 +1,6 @@
 # Calculadora 
 
-Este es un proyecto de una calculadora simple desarrollada en HTML, CSS y JavaScript. La calculadora cuenta con las operaciones básicas de suma, resta, multiplicación y división, y está diseñada para ser fácil de usar.
+Este es mi proyecto de una calculadora desarrollada en HTML, CSS y JavaScript. La calculadora cuenta con las operaciones básicas de suma, resta, multiplicación y división, y está diseñada para ser fácilmente usada.
 
 ## Uso
 
